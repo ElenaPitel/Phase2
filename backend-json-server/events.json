@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "title": "IPL KKR vs DD 1",
+      "domain": "sports",
+      "price": 2500,
+      "location": "Delhi",
+      "startDate": "2020-10-21",
+      "endDate": "2020-10-22",
+      "photoPath": "www.demo_path.jpeg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "organizerName": "91 Events",
+      "id": "12a8c9ee-3b7f-4139-baf7-95984697a655"
+    },
+    {
+      "title": "IPL KKR vs DD 2",
+      "domain": "sports",
+      "price": 2500,
+      "location": "Goa",
+      "startDate": "2020-10-21",
+      "endDate": "2020-10-22",
+      "photoPath": "www.demo_path.jpeg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "organizerName": "91 Events",
+      "id": "04f9f868-9678-4193-8ef4-51be1ba13d1c"
+    },
+    {
+      "id": "SPWI1t6",
+      "title": "test title updated",
+      "domain": "test domain",
+      "price": "100",
+      "location": "test location",
+      "startDate": "05/05/2021",
+      "endDate": "05/06/2021",
+      "photoPath": "www.google.com",
+      "description": "test description",
+      "organizerName": "test organizer"
+    },
+    {
+      "id": "mP_eBrl",
+      "title": "test title 2",
+      "domain": "test domain 2",
+      "price": "10000",
+      "location": "test location 2",
+      "startDate": "05/05/2021",
+      "endDate": "05/06/2021",
+      "photoPath": "www.google.com",
+      "description": "test description 2",
+      "organizerName": "test organizer 2"
+    }
+  ]
+}
